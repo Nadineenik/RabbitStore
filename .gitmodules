@@ -1,0 +1,3 @@
+[submodule "laba2"]
+	path = laba2
+	url = https://github.com/Nadineenik/Api_RabbitStore.git
